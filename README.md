@@ -37,7 +37,7 @@ ExtJS4文档翻译(zh_CN)
 
 
 ### 4.提交ssh-key
-![生成ssh-key](raw/master/assets/img/ssh-key.png)
+![生成ssh-key](extjs4-doc-cn/raw/master/assets/img/ssh-key.png)
 
 * 打开开始菜单-TortoiseGit下的Puttygen
 * 点击Generate,然后鼠标移动到上面,乱甩鼠标到进度条完
@@ -53,7 +53,7 @@ ExtJS4文档翻译(zh_CN)
 
 
 ### 6.下载源码
-![Git Clone](raw/master/assets/img/git-clone.png)
+![Git Clone](extjs4-doc-cn/raw/master/assets/img/git-clone.png)
 
 * 右键Git Clone
 * URL填:git@github.com:extjs-doc-cn/extjs4-doc-cn.git
