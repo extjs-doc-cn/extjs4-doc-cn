@@ -21,3 +21,5 @@ ExtJS4文档翻译(zh_CN)
 
 ## 4. 初始化 
 * 参见[操作说明](https://github.com/extjs-doc-cn/extjs4-doc-cn/wiki/%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C)
+* extjs源码检出地址: git@github.com:extjs-doc-cn/extjs4-doc-cn.git
+* wiki检出地址: git@github.com:extjs-doc-cn/extjs4-doc-cn.wiki.git
