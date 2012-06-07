@@ -12,8 +12,10 @@ ExtJS4文档翻译(zh_CN)
 * kimmking
 * 天猪
 
+## 3. 进度及分工
 
-## 3. 初始化
+
+## 4. 初始化
 ### 1.安装TortoiseGit
 * [http://code.google.com/p/msysgit/](http://code.google.com/p/msysgit/)
 * [http://code.google.com/p/tortoisegit/](http://code.google.com/p/tortoisegit/)
@@ -58,3 +60,10 @@ ExtJS4文档翻译(zh_CN)
 * 右键Git Clone
 * URL填:git@github.com:extjs-doc-cn/extjs4-doc-cn.git
 * Load Putty Key 选你前面保存的public key
+
+### 7.提交成果
+* 本地建议经常右键"Git Commit-> master" 或者先提交到自己的本地分支
+* 不时的Git - Pull 来合并别人的成果
+* 阶段性的Git - Push 提交成功到Github
+* 上面介绍的那本porgit,需要仔细阅读前4章
+* 不要用本Github试验你的git指令
