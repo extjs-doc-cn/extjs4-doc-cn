@@ -1,10 +1,11 @@
-extjs4-doc-cn
+ExtJS4文档翻译(zh_CN)
 =============
 
 ## 1. 项目介绍
 
-ExtJS4文档翻译(zh_CN)
-
+* 目前翻译版本为4.1.0-gpl
+* 打包工具 [https://github.com/senchalabs/jsduck](https://github.com/senchalabs/jsduck)
+* 在线文档地址: 待发布(需要有人研究下gh-pages)
 
 ## 2. 参与者
 
@@ -13,6 +14,9 @@ ExtJS4文档翻译(zh_CN)
 * 天猪
 
 ## 3. 进度及分工
+* 初始化github,编写初始化说明。  √ 2012-06-07 by天猪
+* 试验jsduck打包 - 待认领
+* 分工及认领登记 - 待讨论
 
 
 ## 4. 初始化
@@ -63,6 +67,7 @@ ExtJS4文档翻译(zh_CN)
 
 ### 7.提交成果
 * 本地建议经常右键"Git Commit-> master" 或者先提交到自己的本地分支
+* **建议按最小原则来commit,并清晰的描述修改说明**，建议点击Add Signed-off-by来添加自己的email。
 * 不时的Git - Pull 来合并别人的成果
 * 阶段性的Git - Push 提交成功到Github
 * 上面介绍的那本porgit,需要仔细阅读前4章
